@@ -1,5 +1,3 @@
-import React from 'react'
-
 const GoogleAdMob = () => {
   return (
     <div>GoogleAdMob</div>
